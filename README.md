@@ -1,2 +1,1 @@
-# labuladong
-labuladong‘s algorithm practice
+# 算法导学
